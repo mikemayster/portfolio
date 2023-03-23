@@ -1,0 +1,37 @@
+  {
+    "career": {
+        "title": "Career",
+        "timeline" : "Today",
+        "image" : "https://www.dhs.gov/sites/default/files/styles/large_card/public/2022-01/2022_0126_ocho_cybersecurity-careers_cards.jpg?h=73306683&itok=I-QdMDnS"
+    },
+    "messages": [
+        {
+          "company": "Full-Stack Developer@Tech Gap Solutions",
+          "message": "Most of the projects included software development and web applications in Java, Node.js, Vuejs, Postgres, Oracle, and Docker. I worked on Infocert, Campari were the back end part was migrated to Spring Boot, Hibernate. Additionally, Stampa was built, allowing the creation of a hybrid iOS/Android app with Augmented Reality features. Finally, Keywords Studio which is a translator management system and i still work.",
+          "tags": "#Java #Vuejs #Vuetify #Soap Services #Postgres #WebServices #JSF #Javascript #Oracle #Spring MVC/Boot #Hibernate #Node.js #React Native #ViroReact #Jquery #Bootstrap #Sql Server #Docker #Git #Bitbucket #Jira",
+          "time": "2019 - Now",
+          "color": "green lighten-1"
+        },
+        {
+          "company": "Full-Stack Developer@Aubay",
+          "message": "I worked in both front-end and back-end applications, configuration of Linux webserver, bash scripting, and integration with Apache and Nginx. I have worked on projects such as Ing Direct, Monte Paschi di Siena, Cariparma (Internal Doe Framework), and Vodafone (Volte management app). My last project involved creating a communication channel between new and old technologies for a P2P.",
+          "tags": "#AJAX #jQuery #SVN #HTML 5.0 #XHTML #CSS 3 #Java #Oracle #Postgres #MySQL #RESTfulAPI #WebService #Jhipster #Apache Tomcat #Apache Maven #Apache Camel #AngularJS #Cobol",
+          "time": "2017 - 2019",
+          "color": "deep-purple lighten-1"
+        },
+        {
+          "company": "Bachelor's Degree, ICT Engineering @Mediterranea University",
+          "message": "Thesis about designing and implementing a web application for psicologies",
+          "tags": "#Wordpress #WebServices #PHP #HTML #CSS #JS",
+          "time": "2013 - 2017",
+          "color": "deep-purple lighten-1"
+        },
+        {
+            "company": "Graduation @Technical and Technological High School “ITIS A.Panella”",
+            "message": "Graduated from Technical and Technological High School “ITIS A.Panella” with a paper about electronics technician",
+            "tags": "#Math #Physics #English #Electronics #Chemistry #Telecommunications #Computer Science",
+            "time": "2006 - 2011",
+            "color": "deep-purple lighten-1"
+        }
+      ]
+  }

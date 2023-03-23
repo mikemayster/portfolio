@@ -1,0 +1,29 @@
+ {
+    "projects": [
+      {
+        "title": "Kanban Board",
+        "sections" : ["All", "React"],
+        "text": "Ecommerce or electronic commerce is the trading of goods and services on the internet. It is your bustling city center or brick-and-mortar shop translated into zeroes and ones on the internet superhighway.",
+        "link": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*SwFB1o_k1LGprN-XRUZQ8w.jpeg"
+      },
+      {
+        "title": "Game",
+        "sections" : ["All", "Game"],
+        "text": "GAME.co.uk is the UK's leading games retailer with great deals on video games, consoles, accessories and the latest pre-order games.",
+        "link": "https://s3-us-east-2.amazonaws.com/maryville/wp-content/uploads/2021/03/04131433/MVU-BFADM-2020-Q4-Skyscraper-Future-of-Video-Games-Trends-Technology-Types-header-v2-1000x523.jpg"
+      }
+    ],
+    "globalSections" : {
+      "all": {
+        "title": "All",
+        "icon" : "mdi-all-inclusive"
+      },
+      "vue": {
+        "title": "Vuejs",
+        "icon" : "mdi-vuejs"
+      },
+      "game": {
+        "title": "Game",
+        "icon" : "mdi-gamepad-variant"
+      }}
+  }

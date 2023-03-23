@@ -1,0 +1,43 @@
+{
+    "burgerInterval": 4000,
+    "defaultSkills": {
+        "title": "None",
+        "stacks": [],
+        "burger": "./burger/burger_blank.png"
+    },
+    "frontEnd": {
+        "title": "Front End",
+        "stacks": [
+            { "name": "JavaScript", "img": "mdi-language-javascript", "color": "#f0db4f" },
+            { "name": "Vuejs", "img": "mdi-vuejs", "color": "#41B883" },
+            { "name": "React", "img": "mdi-react", "color": "#61DBFB" },
+            { "name": "Angular", "img": "mdi-angular", "color": "#c3002f" },
+            { "name": "Angularjs", "img": "mdi-angularjs", "color": "#dd1b16" },
+            { "name": "Jquery", "img": "mdi-jquery", "color": "#0868AC" },
+            { "name": "HTML5", "img": "mdi-language-html5", "color": "#e34c26" },
+            { "name": "CSS3", "img": "mdi-language-css3", "color": "#264de4" }
+        ],
+        "burger": "./burger/burger_topbun.png"
+    },
+    "backEnd": {
+        "title": "Back End",
+        "stacks": [
+            { "name": "Java", "img": "mdi-language-java", "color": "#f89820" },
+            { "name": "Php", "img": "mdi-language-php", "color": "#777BB3" },
+            { "name": "Node", "img": "mdi-nodejs", "color": "#3c873a" },
+            { "name": "SQL", "img": "mdi-database", "color": "#0064a5" },
+            { "name": "RESTful", "img": "mdi-api", "color": "#c3aaf4" }
+        ],
+        "burger": "./burger/burger_bottombun.png"
+    },
+    "tools": {
+        "title": "Tools",
+        "stacks": [
+            { "name": "Git", "img": "mdi-git", "color": "#F1502F" },
+            { "name": "BitBucket", "img": "mdi-bitbucket", "color": "#2684FF" },
+            { "name": "Jira", "img": "mdi-jira", "color": "#0052CC" },
+            { "name": "Visual Studio", "img": "mdi-microsoft-visual-studio-code", "color": "#5d2b90" }
+        ],
+        "burger": "./burger/burger_middle.png"
+    }
+}

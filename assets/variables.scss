@@ -1,0 +1,32 @@
+// Ref: https://github.com/nuxt-community/vuetify-module#customvariables
+//
+// The variables you want to modify
+// $font-size-root: 20px;
+
+#app {
+    font-family: 'Lato', sans-serif;
+  }
+
+.theme--light{
+    .v-application {
+        background-color: var(--v-background-base, white) !important;
+      }
+    .v-sheet {
+        background-color: var(--v-sheet-base, whitesmoke) !important;
+    }
+    .v-card {
+        background-color: var(--v-card-base, whitesmoke) !important;
+    }
+}
+
+.theme--dark{
+    .v-application {
+        background-color: var(--v-background-base, black) !important;
+      }
+    .v-sheet {
+        background-color: var(--v-sheet-base, #1E1E1E) !important;
+    }
+    .v-card {
+        background-color: var(--v-card-base, #1E1E1E) !important;
+    }
+}

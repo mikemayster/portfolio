@@ -1,0 +1,18 @@
+{
+  "greeting": "Hi, I'm",
+  "title": "Mihai Maier",
+  "subTitle": "and lead the way with code.",
+  "caption": "<p>I'm passionate about creating amazing projects and bringing my visions to life. I take pride in working hard and not giving up until I reach my goals. When we're fueled by enthusiasm and dedication, the results are always great. That's why I chose this path, it brings me joy and satisfaction every day.</p>",
+  "resumeEnabled": false,
+  "avatar": "./logo_sample.png",
+  "contacts": {
+    "gitHub": {
+      "icon": "mdi-github",
+      "src": "https://github.com/mikemayster"
+    },
+    "linkedin": {
+      "icon": "mdi-linkedin",
+      "src": "https://www.linkedin.com/in/mihai-maier-660617143/"
+    }
+  }
+}

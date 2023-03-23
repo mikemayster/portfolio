@@ -1,0 +1,31 @@
+{
+    "routes": [
+        {
+            "icon": "mdi-home",
+            "title": "Home",
+            "isEnabled": true,
+            "to": "/"
+        },
+        {
+            "icon": "mdi-layers",
+            "title": "Skills",
+            "isEnabled": false,
+            "to": "/skills"
+        },
+        {
+            "icon": "mdi-stairs",
+            "title": "Career",
+            "isEnabled": false,
+            "to": "/career"
+        },
+        {
+            "icon": "mdi-apps",
+            "title": "Projects",
+            "isEnabled": false,
+            "to": "/projects"
+        }
+      ],
+      "wallet": {
+        "title": "portfolio"
+      }
+  }
