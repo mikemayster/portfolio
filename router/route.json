@@ -21,7 +21,7 @@
         {
             "icon": "mdi-apps",
             "title": "Projects",
-            "isEnabled": false,
+            "isEnabled": true,
             "to": "/projects"
         }
       ],
