@@ -21,7 +21,7 @@ The portfolio has been configured in `nuxt.config.js` in order to be deployed in
   It does not require any backend or database integration, it is full front end!
   <br/><br/>
 
-:satellite: Live Demo: [Click me!](https://mikemayster.github.io/m2m-folio/)
+:satellite: Live Demo: [Click me!](https://mikemayster.github.io/portfolio/)
 
 <br/>
 
