@@ -6,6 +6,13 @@
         "text": "A simple kanban to manage work at a personal or organizational level",
         "link": "https://raw.githubusercontent.com/mikemayster/react-kanban-board/main/kanban-image.jpg",
         "web": "https://mikemayster.github.io/react-kanban-board/"
+      },
+      {
+        "title": "M2M Folio",
+        "sections" : ["All", "VueJs"],
+        "text": "A minimal and clean portfolio highly customizable, you simply need to edit some simple json files to change the content of your portfolio, there will be one for every section",
+        "link": "https://raw.githubusercontent.com/mikemayster/m2m-folio/main/m2m-image.jpg",
+        "web": "https://mikemayster.github.io/m2m-folio/"
       }
     ],
     "globalSections" : {
@@ -16,6 +23,10 @@
       "react": {
         "title": "React",
         "icon" : "mdi-react"
+      },
+      "vue": {
+        "title": "VueJs",
+        "icon" : "mdi-vuejs"
       }
     }
   }
