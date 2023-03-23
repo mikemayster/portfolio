@@ -4,7 +4,7 @@
         "title": "Kanban Board",
         "sections" : ["All", "React"],
         "text": "A simple kanban to manage work at a personal or organizational level",
-        "link": "https://github.com/mikemayster/react-kanban-board/blob/main/kanban-image.jpg"
+        "link": "https://raw.githubusercontent.com/mikemayster/react-kanban-board/main/kanban-image.jpg"
       }
     ],
     "globalSections" : {
