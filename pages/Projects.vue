@@ -16,6 +16,7 @@
           :title="project.title"
           :text="project.text"
           :link="project.link"
+          :web="project.web"
           :key="i"
         />
       </v-col>
