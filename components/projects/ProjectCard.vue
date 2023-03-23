@@ -42,6 +42,10 @@ export default {
       type: String,
       default: "",
     },
+    web: {
+      type: String,
+      default: "",
+    },
   },
 };
 </script>
