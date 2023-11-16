@@ -6,11 +6,18 @@
     },
     "messages": [
         {
+          "company": "Full-Stack Developer@Uefiscdi",
+          "message": "Most of the projects included software development, web applications in Php, MariaDB and Javascript, and phone application using cordova.",
+          "tags": "#PHP #MariaDB #WebServices #Javascript #Jquery #Bootstrap #Cordova",
+          "time": "2023 - Now",
+          "color": "green lighten-1"
+        },
+        {
           "company": "Full-Stack Developer@Tech Gap Solutions",
           "message": "Most of the projects included software development and web applications in Java, Node.js, Vuejs, Postgres, Oracle, and Docker. I worked on Infocert, Campari were the back end part was migrated to Spring Boot, Hibernate. Additionally, Stampa was built, allowing the creation of a hybrid iOS/Android app with Augmented Reality features. Finally, Keywords Studio which is a translator management system and i still work.",
           "tags": "#Java #Vuejs #Vuetify #Soap Services #Postgres #WebServices #JSF #Javascript #Oracle #Spring MVC/Boot #Hibernate #Node.js #React Native #ViroReact #Jquery #Bootstrap #Sql Server #Docker #Git #Bitbucket #Jira",
-          "time": "2019 - Now",
-          "color": "green lighten-1"
+          "time": "2019 - 2023",
+          "color": "deep-purple lighten-1"
         },
         {
           "company": "Full-Stack Developer@Aubay",
